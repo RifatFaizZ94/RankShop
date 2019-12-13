@@ -1,0 +1,9 @@
+name: PluginName
+main: RifatFaiz\Main
+api: [3.3.0, 3.0.0, 4.0.0]
+version: 1.0
+author: RifatFaiz
+
+commands:
+ text:
+  description: "Text Command"
